@@ -7,7 +7,7 @@ I'm building a website for Consultation website for those who provide Consultati
 
 ### Phase 1: Planning & Branding 
 - [X] Finalize Demo Name : GrowthMatrix
-- [ ] Lock in Color Palette (Navy Blue, Crisp White, Gold/Green accent).
+- [X] Lock in Color Palette : Charcoal & Gold
 - [ ] Select Fonts (Bold Serif for headings, clean Sans-Serif for body text).
 - [ ] Gather high-quality stock images and placeholder company logos.
 
@@ -36,3 +36,21 @@ I'm building a website for Consultation website for those who provide Consultati
 - [ ] Ensure 100% mobile responsiveness across all sections.
 - [ ] Optimize images and assets for lightning-fast load speeds.
 - [ ] Deploy to production (Vercel, Netlify, or Render).
+
+
+
+---
+---
+
+## 🎨 Brand Identity & Color Palette
+
+The **GrowthMatrix** demo utilizes the "Executive Look" theme. This palette is designed to convey trust, authority, and high-end consulting services, heavily relying on strong dark tones and premium metallic accents.
+
+### Color Codes
+
+* **Cream / Off-White:** `#EFE8CE` (Use for soft backgrounds)
+* **Soft Gold:** `#F2C95B` (Use for secondary accents and highlights)
+* **Bronze / Orange:** `#E59145` (Use for Primary Call-to-Action buttons)
+* **Dark Slate:** `#3A4A5A` (Use for secondary text or footer sections)
+* **Charcoal Black:** `#42474A` (Use for primary headings and base backgrounds)
+* **Crisp White:** `#FFFFFF` (Use for clean section backgrounds and high-contrast text)
